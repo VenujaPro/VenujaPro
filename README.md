@@ -35,8 +35,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Venuja Sathsara"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Venuja Sathsara" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=venujspro&show_icons=true&locale=en&layout=compact" alt="venujspro" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=venujspro&show_icons=true&locale=en" alt="venujspro" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=venujspro&" alt="venujspro" /></p>
